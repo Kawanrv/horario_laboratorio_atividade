@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+h1{
+    color:bisque;
+}
+table{
+    width: 585px;
+    border: 8px solid black;
+}
+p{
+    color: rgb(220, 20, 60);
+}
+u{
+    color: rgb(220, 20, 60);
+}
+b{
+    color:rgb(220, 20, 60);
+}
+i{
+    color:black;
+}
+a{
+    color: rgb(106, 90, 205);
+}
